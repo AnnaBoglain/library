@@ -1,0 +1,32 @@
+.msg{
+    border: 2px solid rgb(255, 181, 43);
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    height: 50px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+p {
+    display: flex;
+    margin: 20px;
+    text-indent: 30px;
+}
+
+.content_h2 {
+    margin-left: 50px;
+}
